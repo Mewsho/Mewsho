@@ -2,8 +2,8 @@
 
 
 <h1> My name is Vicente Antonio | Aka Misho </h1>
-<h2> Im a 22 yo studiying Ing. Civil Informatica @ Universidad Andres Bello. </h2>
-<p> Drinking coffee made from good beans is not just a habit; it’s a celebration of craftsmanship and sensory indulgence. </p>
+<h2> Im a 22 yo studiying Ing. Civil Informatica @ Universidad Andres Bello. <br>
+ Drinking coffee made from good beans is not just a habit; it’s a celebration of craftsmanship and sensory indulgence. </h2>
 
 
 
