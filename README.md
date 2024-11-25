@@ -2,11 +2,14 @@
 
 
 <h1> My name is Vicente Antonio | Aka Misho </h1>
-
 <h2> Im a 22 yo studiying Ing. Civil Informatica @ Universidad Andres Bello. </h2>
 <p> Drinking coffee made from good beans is not just a habit; it’s a celebration of craftsmanship and sensory indulgence. </p>
 
+
+
+
 ----
+
 
 # Os that i work with
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 	![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
