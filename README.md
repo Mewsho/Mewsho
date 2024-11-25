@@ -1,5 +1,5 @@
 
-# HI!
+
 
 My name is Vicente Antonio | Aka Misho
 <h1> Im a 22 yo studiying Ing. Civil Informatica @ Universidad Andres Bello </h1>
